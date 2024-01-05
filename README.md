@@ -6,5 +6,4 @@ Python 3.x
 TensorFlow (or any deep learning framework of your choice)
 Numpy
 Matplotlib (for visualization)
-Pillow (PIL) or OpenCV (for image processing)
-
+Pillow (PIL) 
